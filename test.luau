@@ -1,0 +1,4 @@
+-- local init = require'./init';
+-- local newFirebase = init.getFirebase('firebase');
+-- newFirebase:get('key');
+-- newFirebase:set('key');
