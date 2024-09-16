@@ -3,7 +3,12 @@
 ## lune-firebase is can using firebase in lune 
 config is path, auth
 
-## how to use?
+## Install
+```
+git submodule add https://github.com/kimpure/lune-firebase lune-firebase
+```
+
+## example
 ```luau
 local init = require'./init';
 local newFirebase = init.getFirebase('firebase');
